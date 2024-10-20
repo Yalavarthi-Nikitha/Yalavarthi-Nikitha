@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikitha
-- 👀 I’m interested in learning about different domains of computer science even more interested in learning about machine learning,web developement,app developement and cloud computing
+- 👀 I’m interested in learning about different domains of computer science even more interested in learning about machine learning.
 - 🌱 I’m currently pursuing a computer science degree
 - 💞️ I’m looking to collaborate on various projects(solo/group) which would help expand my horizon and views
 - 📫 How to reach me you can reach me via my emailid nikithayalavarthi9@gmail.com
